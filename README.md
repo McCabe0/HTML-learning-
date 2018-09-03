@@ -9,7 +9,7 @@ HTML uses Tag Elements
 
 The content is wrapped in an open an closing tag, so for example for heading you would put h1 iside of the tags. 
 
-Blocked elements 
+<b> Blocked elements </b>
 
 - Creates a large block of content 
 - New lines before and after element 
@@ -18,7 +18,7 @@ Blocked elements
 for example this would be:
 Paragraphs, headings, forms and div tags.
 
-Inline Elements 
+<b> Inline Elements </b> 
 
 -No new Lines 
 -Can be placed aside other elements 
@@ -26,3 +26,9 @@ Inline Elements
 
 For example of this would be:
 Links,Bold,input and span tags
+
+<b> Singleton Tags </b>
+
+Has no closing tag, also called a void elements.
+
+Img tag is an example of this, only the opening tag is needed, this is mainly used with attributte only tags such as img. 
