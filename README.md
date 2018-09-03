@@ -7,11 +7,3 @@ Chapter one: into into HTML Lecture
 
 HTML uses Tag Elements 
 
-<p></p>
-
-<h1><h1/>
-
-<i></i>
-
-<b></b>
-
