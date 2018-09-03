@@ -45,3 +45,17 @@ Chapter one - HTML tables and list
 
 See 03.1- Simple table Syntax for  an example of an table 
 
+The tr tags are table row!
+The td which is table date, which is table coloum basically 
+
+<b> HTML list </b>
+
+-Group togethr related pieces if info
+-Ranking data
+-Design and layout formatting 
+
+have ol with is ordered list and ul unordered list 
+
+see 03.1-List-Syntax for an example of an list 
+
+
