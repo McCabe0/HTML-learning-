@@ -37,3 +37,11 @@ Chapter One - Creating a HTML website
 
 https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235752?start=105
 
+See 02-Creating a html website for results of this tutorial. 
+
+Chapter one - HTML tables and list 
+
+<b> HTML tables </b>
+
+See 03.1- Simple table Syntax for  an example of an table 
+
