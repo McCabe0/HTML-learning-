@@ -45,6 +45,13 @@ Img tag is an example of this, only the opening tag is needed, this is mainly us
 
  ### Creating a HTML website 
  
+  Link to the lecture](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235752?start=0)
+ 
+ 
  ### HTML Tables and List 
  
+  Link to the lecture](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235751?start=0)
+
+ 
  ### HTML Forms and input 
+Link to the lecture](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235751?start=0)
