@@ -76,12 +76,67 @@ _This is where you will put what you have learnt so far into pratice with this l
  
 ### HTML Forms and input
 
-  [Link to the lecture - Part 1](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235758?start=15)
+  [Link to the lecture - Part 1](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235758?start=15
+  
   _Web forms_
   
   * lets websites become interactive by allowing user input 
   * Forms have front and back end 
   
-  <form>Tag 
- 
-  The form tag wraps around the entire form
+  The form tag wraps around the entire form 
+  
+  Common Attributes: 
+  * Action: Specifies the page or script use to porcess the form on the server side
+  * Mathod: how the froms get processed 
+  
+  Input Tag 
+   
+   The inout specifies an input field where a user can enter data. 
+   
+   Common Attributes;
+   * Type: This specifies the type of input(text,password,list,etc
+   * Name: Specifies a name fro the element. Used in server-side and/or client-side processing 
+   * Size: Specifies the width in chatacters
+   * Max: The maximum amount of characters 
+   
+   Textarea tag 
+   
+    The textarea tag is used for large bloacks of text 
+    
+     Common Attributes:
+     * Name: Specifies a name for the element. used in server-side and/or cleint-side processing 
+     * Rows: Specifies the visible number of lines 
+     * Cols: Specifies the visible width 
+     * maxlength: Specifies the maximum number of characters allowed in teh text area 
+     
+    Select Tag
+     
+     The select Tag is used for dropdowns 
+     
+      Common Attributes:
+     * Name: Specifies a name for the element. used in server-side and/or cleint-side processing 
+     * Multiple: Specifies if the list field can contain mulitple values 
+     * Size: Specifies the the maximim number of visible options 
+     
+     Lable Tag 
+     
+      The lable tag is used to associate a fields heading with the input field 
+       
+       Common Atrributes:
+       * Specifies whihc form elelment the label is bound to 
+       
+      Fieldset Tag 
+       
+       The fieldset tag is used to group together certain fields. it draws a box around the elements 
+        
+        Common attributes 
+        * name 
+        * form
+        * disabled
+        
+      
+     
+   
+     
+  
+  
