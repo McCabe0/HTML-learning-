@@ -35,4 +35,10 @@ Paragraphs, headings, forms and div tags.
 * Can bit define width 
 
 For example of this would be:
-Links,Bold,input and span tags
+Links, Bold, input and span tags
+
+_Singleton Tags_
+
+Has no closing tag, also called a void elements.
+
+Img tag is an example of this, only the opening tag is needed, this is mainly used with attributte only tags such as img. 
