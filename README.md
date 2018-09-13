@@ -76,7 +76,7 @@ _This is where you will put what you have learnt so far into pratice with this l
  
 ### HTML Forms and input
 
-  [Link to the lecture - Part 1](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235758?start=15
+  [Link to the lecture - Part 1](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235758?start=15)
   
   _Web forms_
   
