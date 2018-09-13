@@ -69,8 +69,7 @@ Img tag is an example of this, only the opening tag is needed, this is mainly us
 
 ol is an ordered list and ul is an unordered list
 
-
-
+_This is where you will put what you have learnt so far into pratice with this lecture_
   
 [Link to the lecture - Part 2](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235757?start=0)
 
