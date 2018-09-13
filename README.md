@@ -42,3 +42,9 @@ _Singleton Tags_
 Has no closing tag, also called a void elements.
 
 Img tag is an example of this, only the opening tag is needed, this is mainly used with attributte only tags such as img. 
+
+ ### Creating a HTML website 
+ 
+ ### HTML Tables and List 
+ 
+ ### HTML Forms and input 
