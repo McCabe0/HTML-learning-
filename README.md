@@ -77,5 +77,11 @@ _This is where you will put what you have learnt so far into pratice with this l
 ### HTML Forms and input
 
   [Link to the lecture - Part 1](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235758?start=15)
+  _Web forms_
   
+  * lets websites become interactive by allowing user input 
+  * Forms have front and back end 
   
+  <form>Tag 
+ 
+  The form tag wraps around the entire form
