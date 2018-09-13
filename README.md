@@ -49,12 +49,30 @@ Img tag is an example of this, only the opening tag is needed, this is mainly us
  
  
  ### HTML Tables and List 
- 
-  [Link to the lecture - Part 1](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235756?start=0)
   
-  [Link to the lecture - Part 2](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235757?start=0)
+  [Link to the lecture - Part 1](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235756?start=0)
+ 
+ _HTML Tables_
+  
+  [Example of a table](https://github.com/McCabe0/HTML-learning-/blob/master/Lesson%203/03.1-simple-table-syntax.html)
+
+* The tr tags are table row!
+* The td which is table date, which is the table coloum. 
+
+<b> HTML list </b>
+
+* Group togethr related pieces if info
+* Ranking data
+* Design and layout formatting 
+
+ol is an ordered list and ul is an unordered list
+
+[Example of a list](https://github.com/McCabe0/HTML-learning-/blob/master/Lesson%203/03.2-list-syntax.html)
+
+  
+[Link to the lecture - Part 2](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235757?start=0)
 
  
 ### HTML Forms and input
 
-  [Link to the lecture](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235751?start=0)
+  [Link to the lecture - Part 1](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235758?start=15)
