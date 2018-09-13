@@ -61,13 +61,15 @@ Img tag is an example of this, only the opening tag is needed, this is mainly us
 
 <b> HTML list </b>
 
+ [Example of a list](https://github.com/McCabe0/HTML-learning-/blob/master/Lesson%203/03.2-list-syntax.html)  
+
 * Group togethr related pieces if info
 * Ranking data
 * Design and layout formatting 
 
 ol is an ordered list and ul is an unordered list
 
-[Example of a list](https://github.com/McCabe0/HTML-learning-/blob/master/Lesson%203/03.2-list-syntax.html)
+
 
   
 [Link to the lecture - Part 2](https://www.udemy.com/learn-html5-programming-from-scratch/learn/v4/t/lecture/235757?start=0)
